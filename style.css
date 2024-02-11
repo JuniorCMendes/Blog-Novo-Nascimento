@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    padding: 5px;
+}
+
+body {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(174, 243, 220);
+    font-weight: bolder;
+}
+
+.titulo1 {
+    font-size: 20px;
+    color: black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color:  rgb(174, 243, 220);
+}
+
+.titulo2 {
+    font-size: 20px;
+    color:black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color:  rgb(174, 243, 220);
+}
+
+.titulo3 {
+    font-size: 20px;
+    color: black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color:  rgb(174, 243, 220);
+}
+
+#pag {
+    text-indent: 20px;
+    font-size: 15px;
+}
+
+div.video {
+    margin: auto;
+    padding: 10px;
+    padding-bottom: 56%;
+    position: relative;
+}
+    
+div.video > iframe {
+    position:absolute;
+    padding-left: 1%;
+    padding-right: 0%;
+    width: 95%;
+    height: 95%;
+}
+
+#sub {
+    text-indent: 20px;
+    font-size: 16px;
+}
+
+#sub2 {
+    text-indent: 20px;
+    font-size: 16px;
+}
+
+#sub3 {
+    text-indent: 20px;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.insta > a > img {
+    margin-bottom: -6px;
+    margin-left: -15px;
+    width: 25px;
+    height: 20px;
+}
+
+.git > a > img {
+    margin-bottom: -6px;
+    margin-left: -30px;
+    width: 25px;
+    height: 20px;
+}
+
+.iatb > a > img {
+    margin-bottom: -6px;
+    margin-left: -30px;
+    width: 25px;
+    height: 22px;
+}
+
+.radio > a > img {
+    margin-bottom: -13px;
+    margin-left: -30px;
+    width: 25px;
+    height: 35px;
+}
